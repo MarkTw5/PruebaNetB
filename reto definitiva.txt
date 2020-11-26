@@ -1,0 +1,92 @@
+Entrada
+
+1
+Profesor 1
+Correo1@correo.com
+25
+2
+Profesor 2
+Correo2@correo.com
+35
+3
+Profesor 3
+Correo3@correo.com
+45
+1
+Estudiante 1
+CorreoEst1@correoEst.com
+15
+2
+Estudiante 2
+CorreoEst2@correoEst.com
+14
+3
+Estudiante 3
+CorreoEst3@correoEst.com
+15
+4
+Estudiante 4
+CorreoEst4@correoEst.com
+16
+5
+Estudiante 5
+CorreoEst5@correoEst.com
+17
+1
+Curso 1
+15
+2
+Curso 2
+25
+3
+Curso 3
+30
+4
+Curso 4
+35
+1
+2 - 1
+1
+1 - 2
+1
+2 - 3
+1
+1 - 4
+2
+3 - 1
+2
+1 - 3
+2
+1 - 1
+2
+1 - 2
+2
+3 - 2
+2
+1 - 3
+2
+5 - 1
+2
+5 - 1
+2
+5 - 2
+2
+5 - 3
+2
+1 - 4
+2
+1 - 3
+1
+2
+2
+
+
+Salida
+Curso: 2 - Curso 2 - 25
+Curso: 4 - Curso 4 - 35
+Estudiante: 1 - Estudiante 1 - 15
+Estudiante: 3 - Estudiante 3 - 15
+Estudiante: 5 - Estudiante 5 - 17
+Estudiante: 1 - Estudiante 1 - 15
+Estudiante: 3 - Estudiante 3 - 15
+Estudiante: 5 - Estudiante 5 - 17
